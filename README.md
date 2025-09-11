@@ -9,7 +9,7 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 - 🎓 **B.Tech CSE** @ Methodist College of Engineering and Technology, Osmania University  
 - 🌱 **Currently Learning:** Machine Learning, Power BI for visualization, Python for advanced analytics, SQL for data management, and Statistical Analysis  
 - 💼 **Interests:** Data Science, Business Analytics, and Applied Cybersecurity  
-- 🤝 **Open to Collaborating on:** Meaningful projects and documenting learnings  
+- 🤝 **Open to Collaborating on** Meaningful projects and documenting learnings  
 
 
 
@@ -36,4 +36,16 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+## 📊 Badges & Stats  
+
+![Profile Views](https://komarev.com/ghpvc/?username=aryan-asthana&label=Profile%20Views&color=blue&style=flat)  
+
+![Aryan's GitHub Streak](https://streak-stats.demolab.com/?user=aryan-asthana&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-asthana&layout=compact&theme=tokyonight&hide_border=true)  
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-asthana&show_icons=true&theme=tokyonight&hide_border=true)  
+
+
 
