@@ -47,5 +47,10 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 
 ![ArianAsthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianAsthana&show_icons=true&theme=tokyonight)
 
+## 🔍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--asthana-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-asthana/)  
+[![Email](https://img.shields.io/badge/Email-aryanasthana05@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanasthana05@gmail.com)
+
 
 
