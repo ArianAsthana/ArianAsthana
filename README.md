@@ -39,13 +39,13 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 
 ## 📊 Badges & Stats  
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryan-asthana&label=Profile%20Views&color=blue&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=ArianAsthana&color=blue&style=flat)
 
-![Aryan's GitHub Streak](https://streak-stats.demolab.com/?user=aryan-asthana&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ArianAsthana&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-asthana&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianAsthana&layout=compact&theme=tokyonight)
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-asthana&show_icons=true&theme=tokyonight&hide_border=true)  
+![ArianAsthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianAsthana&show_icons=true&theme=tokyonight)
 
 
 
