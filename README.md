@@ -1,6 +1,6 @@
 ## Hi there, I'm Aryan Asthana 👋
 
-## 👨‍🎓 About Me
+**👨‍🎓 About Me**
 
 Welcome to my GitHub! I'm a **Computer Science Engineering (CSE)** student passionate about **Data Science and Analytics**.  
 I enjoy working with data, uncovering insights, and applying analytical methods to solve real-world problems.  
