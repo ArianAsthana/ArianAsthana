@@ -1,13 +1,17 @@
 ## Hi there, I'm Aryan Asthana 👋
 
-**👨‍🎓 About Me**
+#**👨‍🎓 About Me**
 
 Welcome to my GitHub! I'm a **Computer Science Engineering (CSE)** student passionate about **Data Science and Analytics**.  
-I enjoy working with data, uncovering insights, and applying analytical methods to solve real-world problems.  
+
+- I enjoy working with data, uncovering insights, and applying analytical methods to solve real-world problems.  
 
 - 🎓 **B.Tech CSE** @ Methodist College of Engineering and Technology, Osmania University  
+
 - 🌱 **Currently Learning:** Machine Learning, Power BI for visualization, Python for advanced analytics, SQL for data management, and Statistical Analysis  
+
 - 💼 **Interests:** Data Science, Business Analytics, and Applied Cybersecurity  
+
 - 🤝 **Open to Collaborating on:** Meaningful projects and documenting learnings  
 
 
