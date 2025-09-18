@@ -47,14 +47,12 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianAsthana&layout=compact&theme=radical)
 
-## 🏆 Badges
+## 🏆 Trophies
 
-# 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArianAsthana&theme=algolia&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</p>
 
-![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=commits&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/badge/dynamic/json?color=purple&label=Pull%20Requests&query=prs&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=Issues&query=issues&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=stars&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
 
 ## 🔍 Connect with Me
 
