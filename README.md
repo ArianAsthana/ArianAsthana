@@ -37,7 +37,7 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-## 📊 Badges & Stats  
+## 📊 Stats  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArianAsthana&color=blue&style=flat)
 
@@ -47,6 +47,14 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianAsthana&layout=compact&theme=radical)
 
+## 🏆 Badges
+
+# 📊 My GitHub Stats
+
+![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=commits&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/dynamic/json?color=purple&label=Pull%20Requests&query=prs&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=Issues&query=issues&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=stars&url=https://raw.githubusercontent.com/ArianAsthana/ArianAsthana/main/github-stats.json&style=for-the-badge&logo=github)
 
 ## 🔍 Connect with Me
 
