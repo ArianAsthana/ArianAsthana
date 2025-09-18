@@ -50,8 +50,9 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArianAsthana&theme=algolia&no-frame=true&margin-w=10&column=6&no-pr=true&no-review=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArianAsthana&title=Stars,Followers,Commits,Experience,Issues&theme=algolia&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies" />
 </p>
+
 
 ## 🔍 Connect with Me
 
