@@ -43,7 +43,7 @@ I enjoy working with data, uncovering insights, and applying analytical methods 
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianAsthana&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ArianAsthana&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ArianAsthana&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianAsthana&layout=compact&theme=radical)
 
